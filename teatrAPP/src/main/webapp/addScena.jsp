@@ -8,7 +8,7 @@
 <title>Dodaj Scene</title>
 </head>
  <style rel="stylesheet" type="text/css">
-	body {    background-color: #ffcc66; }
+	body {    background-color: #ffff; }
 	table {
 	border-collapse: collapse;
 	width: 200px;
@@ -53,11 +53,11 @@
 
 
 <br><br>
-	 <a class="btn btn-default" href="http://localhost:8080/teatr/"><b><font color="red">Powrót do strony głównej</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+	 <a class="btn btn-default" href="http://localhost:8080/teatr/"><b><font color="black">Powrót do strony głównej</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
-	 <a class="btn btn-default" href="getScenaData.jsp"><b><font color="red">Dodaj kolejną scene</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+	 <a class="btn btn-default" href="getScenaData.jsp"><b><font color="black">Dodaj kolejną scene</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
-    <a class="btn btn-default" href="showAllSceny.jsp"><b><font color="red">Zobacz wszystkie sceny w bazie</a>
+    <a class="btn btn-default" href="showAllSceny.jsp"><b><font color="black">Zobacz wszystkie sceny w bazie</a>
 
 	</div>
 </body>

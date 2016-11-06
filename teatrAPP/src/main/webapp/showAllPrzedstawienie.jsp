@@ -11,8 +11,8 @@
 
 </head>
  <style rel="stylesheet" type="text/css">
- body {    background-color: #ffcc66; }
- a { color: red ; font-weight: bold; text-align: center;}
+ body {    background-color: #ffff; }
+ a { color: black ; font-weight: bold; text-align: center;}
             p{margin-left: 10cm; }
 
  </style>
@@ -53,8 +53,8 @@
 
             </div>
 
-  <a class="btn btn-default" href="getPrzedstawienieData.jsp"><b><font color="red">Dodaj przedstawienie</a></h2> &nbsp; &nbsp; &nbsp; &nbsp; <br><br><br>
-    <a class="btn btn-default" href="index.jsp"><b><font color="red">Powrót do strony głównej</a></h2> <br><br>
+  <a class="btn btn-default" href="getPrzedstawienieData.jsp"><b><font color="black">Dodaj przedstawienie</a></h2> &nbsp; &nbsp; &nbsp; &nbsp; <br><br><br>
+    <a class="btn btn-default" href="index.jsp"><b><font color="black">Powrót do strony głównej</a></h2> <br><br>
 
 </body>
 </html>

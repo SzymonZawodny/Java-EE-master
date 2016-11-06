@@ -1,4 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
+	<%@ page language="java" contentType="text/html; charset=UTF-8"
 	pageEncoding="UTF-8"%>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
@@ -8,7 +8,7 @@
 <title>Dodaj Przedstawienie</title>
 </head>
  <style rel="stylesheet" type="text/css">
-	body {    background-color: #ffcc66; }
+	body {    background-color: #ffff; }
 	table {
 	border-collapse: collapse;
 	width: 200px;
@@ -53,11 +53,11 @@
 </table>
 
 	<br><br>
-	 <a class="btn btn-default" href="http://localhost:8080/teatr/"><b><font color="red">Powrót do strony głównej</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+	 <a class="btn btn-default" href="http://localhost:8080/teatr/"><b><font color="black">Powrót do strony głównej</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
-	 <a class="btn btn-default" href="getPrzedstawienieData.jsp"><b><font color="red">Dodaj kolejne przedstawienie</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+	 <a class="btn btn-default" href="getPrzedstawienieData.jsp"><b><font color="black">Dodaj kolejne przedstawienie</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
-    <a class="btn btn-default" href="showAllPrzedstawienie.jsp"><b><font color="red">Zobacz wszystkie przedstawienia w bazie</a>
+    <a class="btn btn-default" href="showAllPrzedstawienie.jsp"><b><font color="black">Zobacz wszystkie przedstawienia w bazie</a>
 
 	</div>
 </body>

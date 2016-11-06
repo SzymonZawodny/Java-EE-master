@@ -1,14 +1,14 @@
 
-           
-            h1 	    {text-align: center; color: red; font-size: 70px; font-style: italic;
+
+            h1 	    {text-align: left; color: black; font-size: 70px; font-style: italic;
                     text-decoration:  ; font-family: "Arial";}
-                    
-                         .index 	{background: url('teatr3.jpg') 450px 200px no-repeat;
-            		background-color:#ffcc66;}
+
+                         .index 	{background-color:# 450px 200px no-repeat;
+            		background-color: #ffff;}
 
             .btn {
   display: inline-block;
-  padding: 6px 12px; 
+  padding: 6px 12px;
   margin-bottom: 0;
   font-size: 24px;
   font-weight: normal;
@@ -23,7 +23,7 @@
      -moz-user-select: none;
       -ms-user-select: none;
           user-select: none;
-  background-image: none;
+  background-color: #ffff;
   border: 1px solid transparent;
   border-radius: 4px;
 }
@@ -63,7 +63,7 @@ fieldset[disabled] .btn {
 .btn-default {
   color: #333;
   background-color: almond;
-  border-color: red;
+  border-color: C0C0C0;
 }
 .btn-default:hover,
 .btn-default:focus,
@@ -110,16 +110,16 @@ fieldset[disabled] .btn-default.active {
      margin-left: 550px;
     width: auto;
     height: 100%;
-    background-color: #ffcc66;
+    background-color: #ffff;
     border-color: #A0A0A0;
     overflow: auto;
-    font-family: Arial;   
-    font-size: 24px; 
+    font-family: Arial;
+    font-size: 24px;
            }
-           
+
                               input[type=text] {
-    padding:5px; 
-    border:2px solid #ccc; 
+    padding:5px;
+    border:2px solid #ccc;
     -webkit-border-radius: 5px;
     border-radius: 5px;
 }
@@ -135,9 +135,8 @@ input[type=submit] {
   font-family: Georgia;
   color: black;
   font-size: 16px;
-  background: #ffcc66;
+  background: #ffff;
   padding: 4px 11px 5px 10px;
   border: solid black 3px;
   text-decoration: none;
 }
- 

@@ -50,13 +50,13 @@ public final class getPrzedstawienieData_jsp extends org.apache.jasper.runtime.H
       out.write("<title>Dodaj Przedstawienie</title>\n");
       out.write("</head>\n");
       out.write(" <style rel=\"stylesheet\" type=\"text/css\">\n");
-      out.write(" body {    background-color: #ffcc66; }\n");
+      out.write(" body {    background-color: #ffff; }\n");
       out.write(" .contentbox {\n");
       out.write("    margin-top: 120px;\n");
       out.write("     margin-left: 550px;\n");
       out.write("    width: auto;\n");
       out.write("    height: 100%;\n");
-      out.write("    background-color: #ffcc66;\n");
+      out.write("    background-color: #ffff;\n");
       out.write("    border-color: #A0A0A0;\n");
       out.write("    overflow: auto;\n");
       out.write("    font-family: Arial;\n");

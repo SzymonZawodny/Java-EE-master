@@ -50,20 +50,20 @@ public final class index_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("<link href=\"style.css\" rel=\"stylesheet\" type=\"text/css\">\n");
       out.write("    </head>\n");
       out.write("    <body class = index>\n");
-      out.write("<h1> Teatr </h1>\n");
+      out.write("<h1> Aplikacja zarzadzania teatrem </h1>\n");
       out.write("\n");
       out.write("     <div class=\"body-content\">\n");
-      out.write("        <div class=\"row\">       \n");
-      out.write("          <a class=\"btn btn-default\" href=\"getPrzedstawienieData.jsp\"><b><font color=\"red\">Dodaj przedstawienie</font></b></a><br><br>\n");
-      out.write("\t\t\t   <a class=\"btn btn-default\" href=\"showAllPrzedstawienie.jsp\"><b><font color=\"red\">Zobacz wszystkie przedstawienia</font></b></a>\n");
+      out.write("        <div class=\"row\">\n");
+      out.write("          <a class=\"btn btn-default\" href=\"getPrzedstawienieData.jsp\"><b><font color=\"black\">Dodaj przedstawienie</font></b></a><br><br>\n");
+      out.write("\t\t\t   <a class=\"btn btn-default\" href=\"showAllPrzedstawienie.jsp\"><b><font color=\"black\">Zobacz wszystkie przedstawienia</font></b></a>\n");
       out.write("\t\t\t  <br><br>\n");
-      out.write("\t\t\t\t <a class=\"btn btn-default\" href=\"getScenaData.jsp\"><b><font color=\"red\">Dodaj scene</font></b></a><br><br>\n");
-      out.write("\t\t\t   <a class=\"btn btn-default\" href=\"showAllSceny.jsp\"><b><font color=\"red\">Zobacz wszystkie sceny</font></b></a>\n");
+      out.write("\t\t\t\t <a class=\"btn btn-default\" href=\"getScenaData.jsp\"><b><font color=\"black\">Dodaj scene</font></b></a><br><br>\n");
+      out.write("\t\t\t   <a class=\"btn btn-default\" href=\"showAllSceny.jsp\"><b><font color=\"black\">Zobacz wszystkie sceny</font></b></a>\n");
       out.write("<br><br>\n");
       out.write("            </div>\n");
-      out.write("        </div>  \n");
+      out.write("        </div>\n");
       out.write("</body>\n");
-      out.write("</html>");
+      out.write("</html>\n");
     } catch (Throwable t) {
       if (!(t instanceof SkipPageException)){
         out = _jspx_out;

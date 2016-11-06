@@ -7,17 +7,17 @@
 <link href="style.css" rel="stylesheet" type="text/css">
     </head>
     <body class = index>
-<h1> Teatr </h1>
+<h1> Aplikacja zarzadzania teatrem </h1>
 
      <div class="body-content">
-        <div class="row">       
-          <a class="btn btn-default" href="getPrzedstawienieData.jsp"><b><font color="red">Dodaj przedstawienie</font></b></a><br><br>
-			   <a class="btn btn-default" href="showAllPrzedstawienie.jsp"><b><font color="red">Zobacz wszystkie przedstawienia</font></b></a>
+        <div class="row">
+          <a class="btn btn-default" href="getPrzedstawienieData.jsp"><b><font color="black">Dodaj przedstawienie</font></b></a><br><br>
+			   <a class="btn btn-default" href="showAllPrzedstawienie.jsp"><b><font color="black">Zobacz wszystkie przedstawienia</font></b></a>
 			  <br><br>
-				 <a class="btn btn-default" href="getScenaData.jsp"><b><font color="red">Dodaj scene</font></b></a><br><br>
-			   <a class="btn btn-default" href="showAllSceny.jsp"><b><font color="red">Zobacz wszystkie sceny</font></b></a>
+				 <a class="btn btn-default" href="getScenaData.jsp"><b><font color="black">Dodaj scene</font></b></a><br><br>
+			   <a class="btn btn-default" href="showAllSceny.jsp"><b><font color="black">Zobacz wszystkie sceny</font></b></a>
 <br><br>
             </div>
-        </div>  
+        </div>
 </body>
 </html>

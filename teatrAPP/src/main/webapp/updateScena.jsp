@@ -8,7 +8,7 @@
 <title>Edycja</title>
 </head>
 <style rel="stylesheet" type="text/css">
-body {    background-color: #ffcc66; }
+body {    background-color: #ffff; }
 .adam { margin-top: 4cm; margin-left: 15cm; font-size: 24px;}
 .baba { margin-left:3cm; margin-top:1cm;}
 a { color:black; font-size:24px; font-weight:bold; margin-left: 15cm; margin-top: 2cm;}

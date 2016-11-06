@@ -8,13 +8,13 @@
 <title>Dodaj Przedstawienie</title>
 </head>
  <style rel="stylesheet" type="text/css">
- body {    background-color: #ffcc66; }
+ body {    background-color: #ffff; }
  .contentbox {
     margin-top: 120px;
      margin-left: 550px;
     width: auto;
     height: 100%;
-    background-color: #ffcc66;
+    background-color: #ffff;
     border-color: #A0A0A0;
     overflow: auto;
     font-family: Arial;

@@ -10,8 +10,8 @@
 <title>Baza Scen</title>
 </head>
  <style rel="stylesheet" type="text/css">
- body {    background-color: #ffcc66; }
- a { color: red ; font-weight: bold; text-align: center;}
+ body {    background-color: #ffff; }
+ a { color: black ; font-weight: bold; text-align: center;}
  td {text-align : center;}
             p{margin-left: 12cm; }
 
@@ -56,8 +56,8 @@
 
        </p:forEach>
   </div>
-  <a class="btn btn-default" href="getScenaData.jsp" ><b><font color="red">Dodaj scene</a></h2> &nbsp; &nbsp; &nbsp; &nbsp; <br><br>
-    <a class="btn btn-default" href="index.jsp"><b><font color="red">Powrót do strony głównej</a><br><br>
+  <a class="btn btn-default" href="getScenaData.jsp" ><b><font color="black">Dodaj scene</a></h2> &nbsp; &nbsp; &nbsp; &nbsp; <br><br>
+    <a class="btn btn-default" href="index.jsp"><b><font color="black">Powrót do strony głównej</a><br><br>
 
 </body>
 </html>

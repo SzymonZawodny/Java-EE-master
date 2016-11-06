@@ -64,8 +64,8 @@ public final class showAllPrzedstawienie_jsp extends org.apache.jasper.runtime.H
       out.write("\n");
       out.write("</head>\n");
       out.write(" <style rel=\"stylesheet\" type=\"text/css\">\n");
-      out.write(" body {    background-color: #ffcc66; }\n");
-      out.write(" a { color: red ; font-weight: bold; text-align: center;}\n");
+      out.write(" body {    background-color: #ffff; }\n");
+      out.write(" a { color: black ; font-weight: bold; text-align: center;}\n");
       out.write("            p{margin-left: 10cm; }\n");
       out.write("\n");
       out.write(" </style>\n");
@@ -100,8 +100,8 @@ public final class showAllPrzedstawienie_jsp extends org.apache.jasper.runtime.H
       out.write("\n");
       out.write("            </div>\n");
       out.write("\n");
-      out.write("  <a class=\"btn btn-default\" href=\"getPrzedstawienieData.jsp\"><b><font color=\"red\">Dodaj przedstawienie</a></h2> &nbsp; &nbsp; &nbsp; &nbsp; <br><br><br>\n");
-      out.write("    <a class=\"btn btn-default\" href=\"index.jsp\"><b><font color=\"red\">Powrót do strony głównej</a></h2> <br><br>\n");
+      out.write("  <a class=\"btn btn-default\" href=\"getPrzedstawienieData.jsp\"><b><font color=\"black\">Dodaj przedstawienie</a></h2> &nbsp; &nbsp; &nbsp; &nbsp; <br><br><br>\n");
+      out.write("    <a class=\"btn btn-default\" href=\"index.jsp\"><b><font color=\"black\">Powrót do strony głównej</a></h2> <br><br>\n");
       out.write("\n");
       out.write("</body>\n");
       out.write("</html>\n");
